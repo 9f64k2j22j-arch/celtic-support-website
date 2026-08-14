@@ -1,6 +1,6 @@
 # Celtic Support website
 
-A fast, accessible, single-page information website for `celticsupport.com.au`. It uses plain HTML and CSS—no subscriptions, build tools, tracking, cookies or paid form service.
+A fast, accessible, multi-page information website for `celticsupport.com.au`. It uses plain HTML and CSS—no subscriptions, build tools, tracking, cookies or paid form service.
 
 ## Preview it
 
@@ -51,4 +51,4 @@ Back in **GitHub → repository Settings → Pages**, confirm the custom domain 
 
 ## Make future changes
 
-Edit `index.html` for words and `styles.css` for appearance, then upload the changed file to the repository. GitHub Pages republishes automatically.
+Edit the relevant page (`index.html`, `what-we-do.html`, `work-with-us.html`, `advocacy.html`, or `news-faq.html`) for words and `styles.css` for appearance, then upload the changed file to the repository. GitHub Pages republishes automatically.
